@@ -1,45 +1,43 @@
-# aessiam66# 
+# 👋 Hi, I'm Albert Essiam, PhD
 
-Hi, I'm Albert Essiam, PhD 👋
+## Health Data Scientist | MIT PhD | Clinical Machine Learning
 
-## Health Data Scientist | Clinical Machine Learning | MIT PhD
+Welcome to my GitHub profile.
 
-Welcome to my GitHub!
-
-I am passionate about applying machine learning, statistics, and data engineering to improve clinical decision-making and patient outcomes.
+I develop interpretable machine learning models and data-driven methods to improve clinical decision-making and patient outcomes.
 
 ---
 
-## Current Research
+## 🔬 Current Research
 
 **Development and Temporal Validation of an Interpretable ICU Mortality Prediction Model Using MIMIC-IV**
 
-Current areas of interest include:
+### Research Interests
 
 - Clinical Machine Learning
-- Explainable AI
 - Critical Care Analytics
-- ICU Mortality Prediction
+- Explainable AI
 - Bayesian Statistics
 - Health Data Science
+- Clinical Decision Support
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-### Programming
+### Programming Languages
 - R
 - Python
 - SQL
 
-### Data Science
-- Machine Learning
+### Machine Learning & Statistics
 - Logistic Regression
 - Survival Analysis
 - Statistical Modeling
 - Feature Engineering
+- Model Validation
 
-### Data Platforms
+### Data Platforms & Visualization
 - Snowflake
 - Databricks
 - Tableau
@@ -47,15 +45,14 @@ Current areas of interest include:
 
 ---
 
-## Education
+## 🎓 Education
 
-🎓 PhD – Massachusetts Institute of Technology (MIT)
-
-🎓 MS Health Data Analytics – MGH Institute of Health Professions (In Progress)
+- **PhD**, Massachusetts Institute of Technology (MIT)
+- **Health Data Analytics**, MGH Institute of Health Professions
 
 ---
 
-## Current Projects
+## 🚀 Current Projects
 
 - ICU Mortality Prediction using MIMIC-IV
 - Temporal Validation of Clinical Prediction Models
@@ -63,8 +60,8 @@ Current areas of interest include:
 
 ---
 
-## Connect with Me
+## 📍 Location
 
-📍 Boston, Massachusetts
+Boston, Massachusetts, USA
 
-GitHub: https://github.com/aessiam66
+Thank you for visiting my GitHub profile!
