@@ -1,4 +1,6 @@
-# aessiam66# Hi, I'm Albert Essiam, PhD 👋
+# aessiam66# 
+
+Hi, I'm Albert Essiam, PhD 👋
 
 ## Health Data Scientist | Clinical Machine Learning | MIT PhD
 
